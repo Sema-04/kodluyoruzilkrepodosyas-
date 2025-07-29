@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kodbloklari.iml" filepath="$PROJECT_DIR$/kodbloklari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hesapmakinesi.iml" filepath="$PROJECT_DIR$/hesapmakinesi.iml" />
     </modules>
   </component>
 </project>
